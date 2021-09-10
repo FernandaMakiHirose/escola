@@ -1,4 +1,4 @@
-# Aplicando o conceito de herança em Java um sistema de usuários de uma escola
+# Aplicando o conceito de herança em Java com um sistema de usuários de uma escola
 ## Requisitos
 - [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
 - Java e Maven instalados
